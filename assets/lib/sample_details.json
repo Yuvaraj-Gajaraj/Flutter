@@ -12,7 +12,8 @@
                 "type": "sample",
                 "title": "Getting Started",
                 "key": "getting_started_date_picker",
-                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/date_picker/getting_started/datePicker_getting_started.dart"
+                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/date_picker/getting_started/datePicker_getting_started.dart",
+                "needsPropertyPanel": true
             },
             {
                 "type": "sample",
@@ -139,13 +140,16 @@
                 "type": "sample",
                 "title": "QR Code",
                 "key": "qr_code_generator",
-                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/barcodes/two_dimensional/qr_code.dart"
+                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/barcodes/two_dimensional/qr_code.dart",
+                "needsPropertyPanel": true
+                            
             },
             {
                 "type": "sample",
                 "title": "Data Matrix",
                 "key": "data_matrix_generator",
-                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/barcodes/data_matrix/data_matrix.dart"
+                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/barcodes/data_matrix/data_matrix.dart",
+                "needsPropertyPanel": true
             }
         ]
     },    
@@ -174,7 +178,7 @@
                 "type": "sample",
                 "title": "Headers and Footers",
                 "key": "header_and_footer",
-                "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/pdf/header_and_footer/header_and_footer.dart"
+                "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/pdf/header_and_footers/header_and_footers.dart"
             }
         ]
     },
@@ -260,7 +264,8 @@
                                 "title": "Column width and spacing",
                                 "key": "column_width_and_spacing",
                                 "description": "You can change the width and spacing of columns by using the options in the properties panel.",
-                                "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/chart/cartesian_charts/column_series/column_width_and_spacing.dart"
+                                "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/chart/cartesian_charts/column_series/column_width_and_spacing.dart",
+                                "needsPropertyPanel": true
                             },
                             {
                                 "title": "Customized column chart",
@@ -613,7 +618,8 @@
                                 "description": "",
                                 "status": "",
                                 "sourceLink": "https://www.indexmundi.com/g/g.aspx?c=us&v=121",
-                                "sourceText": "www.indexmundi.com"
+                                "sourceText": "www.indexmundi.com",
+                                "needsPropertyPanel": true
                             }
                         ]
                     },
@@ -1134,7 +1140,9 @@
                                 "key": "semi_pie_chart",
                                 "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/chart/circular_charts/pie_series/semi_pie_chart.dart",
                                 "sourceLink": "https://data.worldbank.org/indicator/sp.rur.totl.zs",
-                                "sourceText": "data.worldbank.org"
+                                "sourceText": "data.worldbank.org",
+                                "needsPropertyPanel": true
+                            
                             },
                             {
                                 "title": "Pie with grouping",
@@ -1180,7 +1188,9 @@
                             {
                                 "title": "Semi-doughnut chart",
                                 "key": "semi_doughnut_chart",
-                                "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/chart/circular_charts/doughnut_series/semi_doughnut_chart.dart"
+                                "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/chart/circular_charts/doughnut_series/semi_doughnut_chart.dart",
+                                "needsPropertyPanel": true
+                            
                             }
                         ]
                     },
@@ -1222,7 +1232,8 @@
                     {
                         "title": "Legend with various options",
                         "key": "legend_with_various_options",
-                        "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/chart/legend/legend_with_various_options.dart"
+                        "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/chart/legend/legend_with_various_options.dart",
+                        "needsPropertyPanel":true
                     }
                 ]
             },
@@ -1235,12 +1246,14 @@
                         "title": "Tooltip",
                         "key": "pie_tooltip_position",
                         "description": "By changing the options, the tooltip can be made to display in the fixed location or at the pointer location itself.",
-                        "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/chart/circular_charts/user_interactions/tooltip/pie_tooltip_position.dart"
+                        "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/chart/circular_charts/user_interactions/tooltip/pie_tooltip_position.dart",
+                        "needsPropertyPanel": true
                     },
                     {
                         "title": "Selection",
                         "key": "circular_selection",
-                        "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/chart/circular_charts/user_interactions/selection/circular_selection.dart"
+                        "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/chart/circular_charts/user_interactions/selection/circular_selection.dart",
+                        "needsPropertyPanel": true
                     }
                 ]
             }
@@ -1260,19 +1273,22 @@
                 "title": "Getting Started",
                 "key": "getting_started_calendar",
                 "status": "Updated",
-                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/calendar/getting_started/getting_started.dart"
+                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/calendar/getting_started/getting_started.dart",
+                "needsPropertyPanel": true
             },
             {
                 "type": "sample",
                 "title": "Scheduling",
                 "key": "appointment_editor_calendar",
-                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/calendar/appointment_editor/appointment_editor.dart"
+                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/calendar/appointment_editor/appointment_editor.dart",
+                "needsPropertyPanel": true
             },
             {
                 "type": "sample",
                 "title": "Recurrence",
                 "key": "recurrence_calendar",
-                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/calendar/recurrence/recurrence.dart"
+                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/calendar/recurrence/recurrence.dart",
+                "needsPropertyPanel": true
             },
             {
                 "type": "sample",
@@ -1567,7 +1583,8 @@
             {
                 "title": "Funnel with smart labels",
                 "key": "funnel_with_smart_labels",
-                "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/chart/funnel_charts/funnel_with_smart_labels.dart"
+                "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/chart/funnel_charts/funnel_with_smart_labels.dart",
+                "needsPropertyPanel":true
             },
             {
                 "title": "Funnel with legend",
@@ -1595,7 +1612,8 @@
                 "key": "pyramid_with_smart_labels",
                 "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/chart/pyramid_charts/pyramid_with_smart_labels.dart",
                 "sourceLink": "https://www.worldometers.info/world-population/population-by-country/",
-                "sourceText": "www.worldometers.info"
+                "sourceText": "www.worldometers.info",
+                "needsPropertyPanel":true
             },
             {
                 "title": "Pyramid with legend",
@@ -1603,5 +1621,14 @@
                 "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/chart/pyramid_charts/pyramid_with_legend.dart"
             }
         ]
+    },
+    {
+        "title": "Data Grid",
+        "description": "Interactive demos of Data Grid",
+        "image": "images/pyramid.png",
+        "category": "Grid",
+        "controlId": 12,
+        "subItems" : []
+
     }
 ]
